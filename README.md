@@ -3,7 +3,7 @@ Institutional-grade analysis framework for systematic trading strategies on the 
 
 This repository presents an institutional-grade analytical framework designed to evaluate systematic trading strategies applied to the DAX index (GERMANY 40).
 
-The project is built around real backtest data exported directly from MetaTrader 5 Strategy Tester and focuses on robust performance validation, risk decomposition, and probabilistic outcome analysis.
+The project is built around real backtest data exported focuses on robust performance validation, risk decomposition, and probabilistic outcome analysis.
 
 Key objectives include:
 
