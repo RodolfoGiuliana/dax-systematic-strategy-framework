@@ -3,7 +3,7 @@ import pandas as pd
 
 def load_mt5_xlsx(path: str) -> pd.DataFrame:
     """
-    Load MT5 Strategy Tester XLSX and extract raw trade rows.
+    Load Strategy Tester XLSX and extract raw trade rows.
     """
 
     df = pd.read_excel(path, engine="openpyxl")
